@@ -1,2 +1,1 @@
-An implemention of "LLMs-Empowered Retrieval on Text-Attributed
-Graphs"
+An implemention of "LLMs-Empowered Retrieval on Text-Attributed Graphs"
